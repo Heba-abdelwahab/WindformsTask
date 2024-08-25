@@ -5004,11 +5004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repo\\Task\\WindformsTask\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "D:\\repo\\WindformsTask\\WindformsTask\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "D:\\repo\\Task\\WindformsTask\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "D:\\repo\\WindformsTask\\WindformsTask\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\MF\\.nuget\\packages\\",
-      "outputPath": "D:\\repo\\Task\\WindformsTask\\WinFormsApp1\\obj\\",
+      "outputPath": "D:\\repo\\WindformsTask\\WindformsTask\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"

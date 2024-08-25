@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cq1qMrJLgrY=",
+  "dgSpecHash": "h8Ir19nQ6wA=",
   "success": true,
-  "projectFilePath": "D:\\repo\\Task\\WindformsTask\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "D:\\repo\\WindformsTask\\WindformsTask\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.charts\\24.1.5\\devexpress.charts.24.1.5.nupkg.sha512",
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.charts.core\\24.1.5\\devexpress.charts.core.24.1.5.nupkg.sha512",
