@@ -1,0 +1,712 @@
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Charts.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.CodeParser.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.Desktop.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.UI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataVisualization.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Diagram.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Drawing.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Images.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Map.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Mvvm.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Office.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Drawing.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.PivotGrid.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Printing.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Export.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.Desktop.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Sparkline.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.SpellChecker.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Spreadsheet.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.TreeMap.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.UI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraNavBar.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraWizard.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Extensions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.UI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Wizard.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDiagram.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDialogs.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Dialogs.v24.1.Core.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGantt.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Presets.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Win.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGrid.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraMap.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraBars.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraEditors.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraLayout.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPdfViewer.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPivotGrid.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPrinting.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.Extensions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraRichEdit.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Extensions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.Extensions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpellChecker.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpreadsheet.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeList.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.UI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraVerticalGrid.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Xpo.v24.1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetFramingBase.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.XtraForm1.resources
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinForms.E4050A35.Up2Date
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\New folder\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\New folder\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Charts.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.CodeParser.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.Desktop.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.UI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataVisualization.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Diagram.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Drawing.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Images.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Map.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Mvvm.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Office.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Drawing.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.PivotGrid.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Printing.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Export.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.Desktop.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Sparkline.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.SpellChecker.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Spreadsheet.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.TreeMap.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.UI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraNavBar.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraWizard.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Extensions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.UI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Wizard.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDiagram.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDialogs.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Dialogs.v24.1.Core.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGantt.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Presets.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Win.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGrid.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraMap.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraBars.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraEditors.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraLayout.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPdfViewer.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPivotGrid.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPrinting.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.Extensions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraRichEdit.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Extensions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.Extensions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpellChecker.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpreadsheet.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeList.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.UI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraVerticalGrid.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Xpo.v24.1.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetFramingBase.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.XtraForm1.resources
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinForms.E4050A35.Up2Date
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Charts.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.CodeParser.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.Desktop.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.UI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataVisualization.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Diagram.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Drawing.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Images.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Map.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Mvvm.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Office.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Drawing.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.PivotGrid.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Printing.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Export.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.Desktop.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Sparkline.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.SpellChecker.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Spreadsheet.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.TreeMap.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.UI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraNavBar.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraWizard.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Extensions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.UI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Wizard.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDiagram.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDialogs.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Dialogs.v24.1.Core.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGantt.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Presets.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Win.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGrid.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraMap.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraBars.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraEditors.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraLayout.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPdfViewer.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPivotGrid.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPrinting.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.Extensions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraRichEdit.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Extensions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.Extensions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpellChecker.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpreadsheet.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeList.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.UI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraVerticalGrid.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Xpo.v24.1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetFramingBase.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.XtraForm1.resources
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinForms.E4050A35.Up2Date
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\repo\Task\GlobactionTask\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Charts.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.CodeParser.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Data.Desktop.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataAccess.v24.1.UI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.DataVisualization.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Diagram.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Drawing.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Images.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Map.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Mvvm.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Office.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Pdf.v24.1.Drawing.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.PivotGrid.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Printing.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.RichEdit.v24.1.Export.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Core.Desktop.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Sparkline.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.SpellChecker.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Spreadsheet.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.TreeMap.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Utils.v24.1.UI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraNavBar.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraWizard.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Extensions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.UI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraCharts.v24.1.Wizard.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDiagram.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraDialogs.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Dialogs.v24.1.Core.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGantt.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Presets.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGauges.v24.1.Win.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraGrid.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraMap.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraBars.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraEditors.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraLayout.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPdfViewer.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPivotGrid.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraPrinting.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraReports.v24.1.Extensions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraRichEdit.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Extensions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.Extensions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraScheduler.v24.1.Reporting.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpellChecker.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraSpreadsheet.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeList.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraTreeMap.v24.1.UI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.XtraVerticalGrid.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\DevExpress.Xpo.v24.1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetFramingBase.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.XtraForm1.resources
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinForms.E4050A35.Up2Date
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\repo\Task\WindformsTask\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
